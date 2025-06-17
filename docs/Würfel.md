@@ -10,3 +10,11 @@
     ```
     D3 - D4 - D5 - D6 - D7 - D8 - D10 - D12 - D14 - D16 - D20 - D24 - D30
     ```
+
+## Fertigkeitswurf
+
+- geübte Fertigkeiten: `1W20`, andernfalls `1W10`
+    - falls Charakter schon mal damit zu tun hatte, darf es einen Bonus auf den `1W10` geben
+- wenn Ergebnis >= SG: erfolgreich, ansonsten Fehlschlag
+- Ergebnis wird durch Attribute modifiziert
+- bei vergleichenden Würfen gewinnt das bessere Ergebnis (inklusive Attribute)
